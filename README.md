@@ -10,17 +10,19 @@
 
 
 ## Author:
-HK
+Harsimran Kaur
 
 ## Profile
-[Github]()
+[Github] ( harsim3221)
+[Email]  (harsim3221@gmail.com)
 
 
-## Screenrecording
-![](https://drive.google.com/file/d/1AncN682-Mf7ofYTTco-4okxWT-tV3Yoj/view)
+
+## Screen recording
+![(https://drive.google.com/file/d/1NHF90iZ4dQPnSnplvWrx6IzLRaNZXvlp/view)]
 
 
-![](./ph.gif)
+![(./ReadmeDemo)]
 
 
 

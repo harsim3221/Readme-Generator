@@ -136,20 +136,7 @@ const questions = [
             }
       },
 
-    //    {
-    //     type: "input",
-    //     name: "video",
-    //     message: "Provide walkthrough of required tests.",
-    //     validate: your_video => {
-    //         if (your_video){
-    //             return true;
-    //         } else { 
-    //            console.log(" Please show the video of the project");
-    //            return false;
-    //         }
-    //         }
-    //   },
-    ];    
+     ];    
 
 
 // function to write README file
@@ -168,7 +155,7 @@ function init()
     inquirer.prompt(questions)
     .then(function(userInput) {
         console.log(userInput)
-        writeToFile("README.md", generateMarkdown(userInput));
+        writeToFile("OutputREADME.md", generateMarkdown(userInput));
     });
 
 };
