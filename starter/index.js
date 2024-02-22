@@ -66,7 +66,7 @@ const questions = [
       },
 
       {
-        type: "checkbox",
+        type: "list",
         name: "license",
         message: "Please select a license applicable to this project.",
         choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
@@ -136,19 +136,19 @@ const questions = [
             }
       },
 
-       {
-        type: "input",
-        name: "video",
-        message: "Provide walkthrough of required tests.",
-        validate: your_video => {
-            if (your_video){
-                return true;
-            } else { 
-               console.log(" Please show the video of the project");
-               return false;
-            }
-            }
-      },
+    //    {
+    //     type: "input",
+    //     name: "video",
+    //     message: "Provide walkthrough of required tests.",
+    //     validate: your_video => {
+    //         if (your_video){
+    //             return true;
+    //         } else { 
+    //            console.log(" Please show the video of the project");
+    //            return false;
+    //         }
+    //         }
+    //   },
     ];    
 
 
