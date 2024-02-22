@@ -14,13 +14,13 @@
 
 
   ## Description:
-  This Readme generator was created by using NodeJS & Inquirer (an NPM product). This CLI app automatically generates professional Readme.
+  CLI app to generate Readme
 
   ## Installation:
   npm i
 
   ## Usage:
-  Open source - node index.js
+  Open source
 
   ## License:
   MIT
@@ -31,9 +31,9 @@
   N/A
 
   ## Testing:
-  Manual Testing - Run the project
+  Manual testing - Run the project
 
   ## Contact Information:
   - Github: [harsim3221] (https://github.com/harsim3221)
-  - Email: [harsim3221@gmail.com] (mailto: harsim3221@gmail.com)
+  - Email: [harsim3221@gmal.com] (mailto: harsim3221@gmail.com)
   
