@@ -27,6 +27,7 @@ Harsimran Kaur
 
 ## Profile
 [Github] (https://github.com/harsim3221)
+
 [Email]  (harsim3221@gmail.com)
 
 URL of the GitHub repository :
@@ -36,11 +37,11 @@ https://github.com/harsim3221/Readme-Generator
 
 
 ## Screen recording
-<!-- ![(https://drive.google.com/file/d/1NHF90iZ4dQPnSnplvWrx6IzLRaNZXvlp/view)] -->
-![(https://www.loom.com/share/eb588c33505a483c9b2c4a31ac2cb83b?sid=5adcb6a7-652d-4c3b-a451-2f6f4b8c3fb0)]
+
+![(https://www.loom.com/share/eb588c33505a483c9b2c4a31ac2cb83b?sid=5dceafb5-c400-47c3-9ec8-8a2f3ac2b572)]
 
 
-![(./Readmeframe)]
+
 
 
 
